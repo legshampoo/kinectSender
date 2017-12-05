@@ -1,0 +1,10 @@
+<settings>
+    <matrixTransformationX>-2205</matrixTransformationX>
+    <matrixTransformationY>1440</matrixTransformationY>
+    <matrixTransformationZ>-585</matrixTransformationZ>
+    <matrixRotationX>210.000000000</matrixRotationX>
+    <matrixRotationY>329.000000000</matrixRotationY>
+    <matrixRotationZ>133.000000000</matrixRotationZ>
+    <cameraRoll>352.000000000</cameraRoll>
+    <floorThreshold>-3330</floorThreshold>
+</settings>
